@@ -1,0 +1,76 @@
+iframe {
+    max-width: 100%;
+    border-style: dashed;   
+}
+body {
+     background-image: url('woodwall.jpg');
+}
+section {
+    width:30%;
+    border-style: inset;
+    border-width: 30px;
+    border-color: #8da389;
+    margin: 60px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0px 13px 10px black;
+    background-color: #f9ffa8;
+    background-image: -moz-linear-gradient(175deg, transparent 95%, #8da389 95%);
+}
+
+cite {
+    font-size: small;
+}
+
+.noto-serif {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.momo-trust-display-regular {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+    font-size: large;
+}
+
+.section1 {
+    rotate: -3deg;
+    margin:10 auto;
+    margin-left:200px;
+}
+.section2 {
+    rotate: 2deg;
+    margin-right:450px;
+}
+
+.section3 {
+    rotate: -1.5deg;
+    margin-left: 300px;
+}
+
+.section4 {
+    rotate: 4deg;
+    margin-right: 400px;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #f9ffa8;
+    width:30%;
+    border-style: inset;
+    border-width: 20px;
+    box-shadow: 0px 13px 10px black;
+    border-color: #8da389;
+}
+
